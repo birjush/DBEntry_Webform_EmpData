@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBEntry_Crud_lab", "DBEntry_Crud_lab\DBEntry_Crud_lab.csproj", "{A7BEF44C-53DF-4CAC-87D7-C76C76BF28CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7BEF44C-53DF-4CAC-87D7-C76C76BF28CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7BEF44C-53DF-4CAC-87D7-C76C76BF28CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7BEF44C-53DF-4CAC-87D7-C76C76BF28CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7BEF44C-53DF-4CAC-87D7-C76C76BF28CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FBE4C82-EE27-4868-8738-DC873E7FE0D6}
+	EndGlobalSection
+EndGlobal
